@@ -22,3 +22,4 @@ This app is intended to be the base project on top of which new features can be 
 3. Open the drawer by clicking on the hamburger menu in the `Actionbar`.
 4. Handle drawer item click events and replace the main content area with the corresponsing fragment.
 5. Add custom background for selected drawer item.
+
